@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.2",
   "zipkonum": "https://github.com/geredekizilay/UpdateProgress/releases/download/updateGerede/Gerede.Kizilay.zip",
-  "asarurl" : "https://github.com/geredekizilay/UpdateProgress/releases/download/updateGerede/app.asar",
+  "asarurl" : "",
   "exeadi": "geredeKizilay"
 }
